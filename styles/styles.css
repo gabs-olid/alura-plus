@@ -161,6 +161,7 @@ body {
     .container {
         display: block;
         background-image: none;
+        height: 70vh;
     }
 
     .container__img {
