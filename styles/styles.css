@@ -52,12 +52,12 @@ body {
 }
 
 .container__aviso {
-    font-size: 12px;
+    font-size: 0.75em;
     color: var(--cinza-secundario);
 }
 
 .container__titulo {
-    font-size: 28px;
+    font-size: 1.75em;
     font-weight: 700;
 }
 
@@ -67,4 +67,24 @@ body {
 
 .container__caixa {
     margin: 0 6em;
+}
+
+.secundario__img {
+    width: 80%;
+}
+
+.secundario {
+    align-items: center;
+    margin: 0 10em;
+}
+
+.descricao__titulo {
+    font-weight: 700;
+    font-size: 3em;
+    color: var(--branco-principal);
+    margin-bottom: 0.1em;
+}
+
+.descricao__texto {
+    color: var(--cinza-secundario);
 }
