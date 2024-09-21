@@ -157,7 +157,7 @@ body {
     font-size: 0.875em;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1057px) {
     .container {
         display: block;
         background-image: none;
