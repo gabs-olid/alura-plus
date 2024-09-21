@@ -187,5 +187,9 @@ body {
     .rodape__lista {
         display: block;
     }
+
+    .lista__link {
+        margin-bottom: 1.5em;
+    }
 }
 
