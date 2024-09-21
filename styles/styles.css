@@ -161,10 +161,10 @@ body {
     .container {
         display: block;
         background-image: none;
-        height: 70vh;
+        height: 78vh;
     }
 
-    .container__img {
+    .container__img { 
         width: 50vw;
     }
 
